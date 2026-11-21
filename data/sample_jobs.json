@@ -1,0 +1,8 @@
+[
+  {"title":"Junior Python Backend Engineer","company":"Northstar Labs","location":"Gurugram, India","skills":["Python","FastAPI","SQL","REST APIs","Docker"],"description":"Build reliable backend services and APIs. Work with relational databases, write tests, and deploy containerised services."},
+  {"title":"AI Engineer Intern","company":"Cognify Systems","location":"Bengaluru, India","skills":["Python","LLMs","Prompt Engineering","RAG","Embeddings"],"description":"Prototype LLM-powered assistants, retrieval augmented generation pipelines, prompt evaluation and semantic search."},
+  {"title":"Full Stack Developer","company":"TravelGrid","location":"Remote, India","skills":["React","TypeScript","Node.js","PostgreSQL","REST APIs"],"description":"Build user-facing web applications, backend APIs, database features, search and personalised recommendations."},
+  {"title":"Machine Learning Intern","company":"DataSpring","location":"Noida, India","skills":["Python","Machine Learning","Pandas","Scikit-learn","SQL"],"description":"Prepare datasets, train baseline machine learning models, evaluate results and communicate insights."},
+  {"title":"Search and Recommendation Engineer","company":"MatchWorks","location":"Gurugram, India","skills":["Python","Embeddings","Vector Search","Ranking","PostgreSQL"],"description":"Develop semantic retrieval, candidate-job matching, ranking and personalisation for a large job catalogue."},
+  {"title":"Software Engineer Intern","company":"CloudNest","location":"Hyderabad, India","skills":["Python","JavaScript","APIs","SQL","Git"],"description":"Implement backend features, integrate third-party APIs, debug production issues and collaborate with product engineers."}
+]
